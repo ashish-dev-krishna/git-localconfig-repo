@@ -1,0 +1,17 @@
+sonar.login=admin
+sonar.password=admin123
+sonar.language=java
+sonar.sources=src
+
+sonar.projectKey=testdb
+
+#sonar.exclusions=**/*.java
+
+
+
+sonar.projectKey=testdb
+sonar.projectName=testdb1
+sonar.projectVersion=1.1
+
+#sonar.exclusions=*.java
+sonar.java.binaries=target
